@@ -1,0 +1,74 @@
+[
+  {
+    "stop_name": "K.P.H.B.4th Phase",
+    "lat": 17.491659,
+    "lon": 78.391983,    
+    "timestamp": "2025-10-29T08:00:00+05:30"
+  },
+  {
+    "stop_name": "Forum Mall / K.P.H.B.Circle",
+    "lat": 17.495924,
+    "lon": 78.392632,    
+    "timestamp": "2025-10-29T08:03:00+05:30"
+  },
+  {
+    "stop_name": "J.N.T.U",
+    "lat": 17.494793,
+    "lon": 78.399644,
+    "timestamp": "2025-10-29T08:06:00+05:30"
+  },
+  {
+    "stop_name": "Kukatpally Bus Stop",
+    "lat": 17.493780,
+    "lon": 78.401795,
+    "timestamp": "2025-10-29T08:10:00+05:30"
+  },
+  {
+    "stop_name": "Moosapet Bus Stop",
+    "lat": 17.467887,
+    "lon": 78.421190,
+    "timestamp": "2025-10-29T08:18:00+05:30"
+  },
+  {
+    "stop_name": "Moosapet",
+    "lat": 17.468531,
+    "lon": 78.420670,
+    "timestamp": "2025-10-29T08:20:00+05:30"
+  },
+  {
+    "stop_name": "Erragadda",
+    "lat": 17.4487999,
+    "lon": 78.4356074,
+    "timestamp": "2025-10-29T08:26:00+05:30"
+  },
+  {
+    "stop_name": "E.S.I.Hospital",
+    "lat": 17.448363,
+    "lon": 78.435000,
+    "timestamp": "2025-10-29T08:28:00+05:30"
+  },
+  {
+    "stop_name": "S.R.Nagar",
+    "lat": 17.443649,
+    "lon": 78.445824,
+    "timestamp": "2025-10-29T08:33:00+05:30"
+  },
+  {
+    "stop_name": "Paradise Metro Station",
+    "lat": 17.442730,
+    "lon": 78.487430,
+    "timestamp": "2025-10-29T08:42:00+05:30"
+  },
+  {
+    "stop_name": "Clock Tower (Secunderabad)",
+    "lat": 17.439200,
+    "lon": 78.498100,
+    "timestamp": "2025-10-29T08:46:00+05:30"
+  },
+  {
+    "stop_name": "Secunderabad Bus Station (Gurudwara)",
+    "lat": 17.437200,
+    "lon": 78.505100,
+    "timestamp": "2025-10-29T08:50:00+05:30"
+  }
+]
